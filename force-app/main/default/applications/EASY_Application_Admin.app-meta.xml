@@ -28,5 +28,4 @@
     <tabs>Requirement_Response__c</tabs>
     <tabs>Intended_Program_Term__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>EASY_Application_Admin_UtilityBar</utilityBar>
 </CustomApplication>
